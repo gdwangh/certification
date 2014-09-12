@@ -12,7 +12,7 @@ MOOC certification
 * 3-Coursera getdata 2014.pdf --- Getting and Cleaning Data
 * 4-Coursera exdata 2014.pdf --- Exploratory Data Analysis
 * 5-Coursera repdata 2014.pdf --- Reproducible Research
-* 6-6-Coursera statinference 2014.pdf --- Statistical Inference
+* 6-Coursera statinference 2014.pdf --- Statistical Inference
 
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
