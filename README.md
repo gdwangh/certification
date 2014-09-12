@@ -7,11 +7,12 @@ MOOC certification
 * Coursera introfinance 2014.pdf  -- introduction to Finance
 
 #### data_scientist_list
-* Coursera datascitoolbox 2014.pdf --- The Data Scientist¡¯s Toolbox
-* Coursera rprog 2014.pdf	--- R Programming
-* Coursera getdata 2014.pdf --- Getting and Cleaning Data
-* Coursera exdata 2014.pdf --- Exploratory Data Analysis
-* Coursera repdata 2014.pdf --- Reproducible Research
+* 1-Coursera datascitoolbox 2014.pdf --- The Data Scientist¡¯s Toolbox
+* 2-Coursera rprog 2014.pdf	--- R Programming
+* 3-Coursera getdata 2014.pdf --- Getting and Cleaning Data
+* 4-Coursera exdata 2014.pdf --- Exploratory Data Analysis
+* 5-Coursera repdata 2014.pdf --- Reproducible Research
+* 6-6-Coursera statinference 2014.pdf --- Statistical Inference
 
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
