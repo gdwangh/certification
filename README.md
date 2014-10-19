@@ -5,6 +5,7 @@ MOOC certification
 
 ## coursera:
 * Coursera introfinance 2014.pdf  -- introduction to Finance
+* Coursera datasci 2014.pdf -- Introduction to Data Science
 
 #### data_scientist_list
 * 1-Coursera datascitoolbox 2014.pdf --- The Data Scientist¡¯s Toolbox
@@ -13,6 +14,7 @@ MOOC certification
 * 4-Coursera exdata 2014.pdf --- Exploratory Data Analysis
 * 5-Coursera repdata 2014.pdf --- Reproducible Research
 * 6-Coursera statinference 2014.pdf --- Statistical Inference
+* 7-Coursera regmods 2014.pdf -- Regression Models
 
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
