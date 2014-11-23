@@ -6,6 +6,7 @@ MOOC certification
 ## coursera:
 * Coursera introfinance 2014.pdf  -- introduction to Finance
 * Coursera datasci 2014.pdf -- Introduction to Data Science
+* Coursera statistics 2014.pdf -- Data Analysis and Statistical Inference 
 
 #### data_scientist_list
 * 1-Coursera datascitoolbox 2014.pdf --- The Data Scientist¡¯s Toolbox
