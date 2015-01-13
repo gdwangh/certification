@@ -18,6 +18,7 @@ MOOC certification
 * 6-Coursera statinference 2014.pdf --- Statistical Inference
 * 7-Coursera regmods 2014.pdf -- Regression Models
 * 8-Coursera predmachlearn 2014 -- Practical Machine Learning
+* 9-Coursera devdataprod 2015 -- Developing Data Products
 
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
