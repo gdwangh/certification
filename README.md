@@ -26,4 +26,5 @@ MOOC certification
 
 ## xuetang:
 * 学堂在线_财务分析与决策.pdf
-   
+* CS169.1x云计算与软件工程.pdf
+
