@@ -21,6 +21,7 @@ MOOC certification
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
 * edxCertificate_cs169_2x_saas.pdf  --- CS169.2x Engineering Software as a Service part 2
+* edxCertificate_15.071x_The Analytics Edge.pdf -- 15.071x The Analytics Edge
 
 ## xuetang:
 * 学堂在线_财务分析与决策.pdf
