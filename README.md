@@ -23,6 +23,7 @@ MOOC certification
 ## edx:
 * edxCertificate_cs169_1x_saas.pdf  --- CS169.1x Engineering Software as a Service
 * edxCertificate_cs169_2x_saas.pdf  --- CS169.2x Engineering Software as a Service part 2
+* edxCertificate_15.071x_The Analytics Edge.pdf -- 15.071x The Analytics Edge
 * edxCertificate_cs100_1x_introduction to Big Data with Apache Spark --- cs100.1x introduction to Big Data with Apache Spark
 
 ## xuetang:
